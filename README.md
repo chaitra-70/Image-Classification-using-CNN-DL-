@@ -66,4 +66,4 @@ The model is trained for 10 epochs and achieves ~70–80% accuracy depending on 
 ## 👤 Author
 Chaithra Bogimolla  
 B.Tech, AI & ML  
-GitHub: *your GitHub profile link*
+GitHub: Github:https://github.com/chaitra-70
